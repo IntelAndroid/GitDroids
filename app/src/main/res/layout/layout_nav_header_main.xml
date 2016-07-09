@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/dp_140">
+
+    <Button
+        android:id="@+id/btnLogin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/login_github"
+        android:textSize="@dimen/sp_20"
+        android:textColor="@android:color/white"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="10dp"
+        style="@style/Widget.AppCompat.ActionButton"
+        android:drawableRight="@drawable/ic_login"
+        android:drawablePadding="@dimen/dp_3"
+        tools:ignore="RelativeOverlap"/>
+
+    <ImageView
+        android:id="@+id/ivIcon"
+        android:layout_width="@dimen/dp_50"
+        android:layout_height="@dimen/dp_50"
+        android:layout_marginRight="@dimen/dp_20"
+        android:layout_alignRight="@+id/btnSearch"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="@dimen/dp_20"
+        android:src="@drawable/ic_avatar"/>
+
+    <Button
+        android:id="@+id/btnSearch"
+        android:layout_width="@dimen/dp_300"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnLogin"
+        android:drawableLeft="@drawable/ic_search"
+        android:drawablePadding="@dimen/dp_6"
+        android:paddingTop="@dimen/dp_6"
+        android:paddingBottom="@dimen/dp_6"
+        android:layout_marginTop="@dimen/dp_10"
+        android:layout_centerHorizontal="true"
+        android:text="@string/search"
+        android:gravity="left|center_vertical"
+        android:textColor="@android:color/white"
+        android:theme="@style/AppTheme.Button.Transparent"/>
+
+
+</RelativeLayout>

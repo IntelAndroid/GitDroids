@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">GitDroid</string>
+
+    <string name="login_github">登录GitHub</string>
+    <string name="enter_app">直接使用</string>
+
+    <string name="welcome_to_gitdroid">Welcome to GitDroid</string>
+    <string name="welcome_introduction">全平台管理你的GitHub账号，时刻跟踪最热门的开源库</string>
+
+    <string name="github">GitHub</string>
+    <string name="arsenal">Arsenal</string>
+    <string name="arsenal_introduction">你的个人Android开发兵工厂，十八般武器样样精通</string>
+    
+    <string name="tips_and_tricks">Tips and Tricks</string>
+    <string name="tips_introduction">每日积累编程干货，聚沙成塔，你也能成大牛！</string>
+
+    <string name="label_main">GitDroid (未登陆)</string>
+
+
+    <string name="hot_repo">最热门</string>
+    <string name="hot_coder">开发者</string>
+    <string name="trend">流行趋势</string>
+    <string name="my_repo">我的收藏</string>
+    <string name="recommend">推荐</string>
+    <string name="tips_daily">每日干货</string>
+    <string name="share">分享</string>
+    <string name="search">搜索</string>
+
+    <string name="no_content">没有内容</string>
+    <string name="refresh_error">刷新发生错误: %s</string>
+    <string name="switch_account">切换账号</string>
+
+    <string name="load_more_error">加载发生错误: %s</string>
+    <string name="load_more_end">没有更多数据</string>
+
+    <string name="repo_group_all">全部</string>
+    <string name="repo_group_no">未分类</string>
+    <string name="move_to">移动至</string>
+
+    <string name="delete">删除</string>
+
+    <string name="set_favorite_success">收藏成功！</string>
+
+    <string name="nothing_here_have_a_rest">今天什么也没有，休息一下，和家人聊聊天吧！</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>

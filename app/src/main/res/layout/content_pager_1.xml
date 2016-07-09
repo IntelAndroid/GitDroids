@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_140"
+        android:background="@android:color/white"
+        android:layout_alignParentBottom="true"
+        tools:ignore="UselessParent">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/arsenal"
+            android:textStyle="bold"
+            android:id="@+id/tvTitle"
+            android:layout_centerHorizontal="true"
+            android:layout_above="@+id/tvIntroduction"
+            android:layout_marginBottom="@dimen/dp_3"/>
+
+        <TextView
+            android:layout_width="@dimen/dp_300"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="@string/arsenal_introduction"
+            android:id="@+id/tvIntroduction"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"/>
+    </RelativeLayout>
+
+</RelativeLayout>

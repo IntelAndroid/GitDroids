@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NavigationView" parent="AppTheme">
+        <item name="android:textColorSecondary">#FFFFFF</item>
+    </style>
+
+    <style name="AppTheme.Button.Transparent" parent="Widget.AppCompat.Button.Colored">
+        <item name="colorButtonNormal">#33000000</item>
+    </style>
+
+    <style name="AppTheme.TabTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="android:textColor">@color/menu_item_tint</item>
+        <item name="textAllCaps">false</item>
+    </style>
+
+
+</resources>

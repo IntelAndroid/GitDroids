@@ -1,0 +1,38 @@
+[
+  {
+    "path": "java",
+    "name": "Java"
+  },
+  {
+    "path": "javascript",
+    "name": "JavaScript"
+  },
+  {
+    "path": "go",
+    "name": "Go"
+  },
+  {
+    "path": "html",
+    "name": "HTML"
+  },
+  {
+    "path": "css",
+    "name": "CSS"
+  },
+  {
+    "path": "objective-c",
+    "name": "Objective-C"
+  },
+  {
+    "path": "python",
+    "name": "Python"
+  },
+  {
+    "path": "swift",
+    "name": "Swift"
+  },
+  {
+    "path": "ruby",
+    "name": "Ruby"
+  }
+]

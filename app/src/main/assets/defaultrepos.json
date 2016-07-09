@@ -1,0 +1,332 @@
+[
+  {
+    "id": 22374063,
+    "name": "android-best-practices",
+    "full_name": "futurice/android-best-practices",
+    "avatar_url": "https://avatars.githubusercontent.com/u/852157?v=3",
+    "description": "Do's and Don'ts for Android development, by Futurice developers",
+    "stargazers_count": 10469,
+    "forks_count": 1974
+  },
+  {
+    "id": 5279091,
+    "name": "dagger",
+    "full_name": "square/dagger",
+    "avatar_url": "https://avatars.githubusercontent.com/u/82592?v=3",
+    "description": "A fast dependency injector for Android and Java.",
+    "stargazers_count": 5223,
+    "forks_count": 1342
+  },
+  {
+    "id": 892275,
+    "name": "retrofit",
+    "full_name": "square/retrofit",
+    "description": "Type-safe HTTP client for Android and Java by Square, Inc.",
+    "stargazers_count": 13283,
+    "forks_count": 2656,
+    "avatar_url": "https://avatars.githubusercontent.com/u/82592?v=3",
+    "group":{
+    "id": 1,
+    "name": "网络连接"
+  }
+  },
+  {
+    "id": 5152285,
+    "name": "okhttp",
+    "full_name": "square/okhttp",
+    "description": "An HTTP+HTTP/2 client for Android and Java applications.",
+    "stargazers_count": 12045,
+    "forks_count": 3140,
+    "avatar_url": "https://avatars.githubusercontent.com/u/82592?v=3",
+    "group":{
+      "id": 1,
+      "name": "网络连接"
+    }
+  },
+  {
+    "id": 10188673,
+    "name": "android-volley",
+    "full_name": "mcxiaoke/android-volley",
+    "description": "DEPRECATED",
+    "stargazers_count": 3879,
+    "forks_count": 1637,
+    "avatar_url": "https://avatars.githubusercontent.com/u/464330?v=3",
+    "group":{
+      "id": 1,
+      "name": "网络连接"
+    }
+  },
+  {
+    "id": 1388245,
+    "name": "android-async-http",
+    "full_name": "loopj/android-async-http",
+    "description": "An Asynchronous HTTP Library for Android",
+    "stargazers_count": 8923,
+    "forks_count": 4191,
+    "avatar_url": "https://avatars.githubusercontent.com/u/104009?v=3",
+    "group":{
+      "id": 1,
+      "name": "网络连接"
+    }
+  },
+  {
+    "id": 206402,
+    "name": "httpclient",
+    "full_name": "apache/httpclient",
+    "description": "Mirror of Apache HttpClient",
+    "stargazers_count": 354,
+    "forks_count": 289,
+    "avatar_url": "https://avatars.githubusercontent.com/u/47359?v=3",
+    "group":{
+      "id": 1,
+      "name": "网络连接"
+    }
+  },
+  {
+    "id": 2862290,
+    "name": "Android-Universal-Image-Loader",
+    "full_name": "nostra13/Android-Universal-Image-Loader",
+    "avatar_url": "https://avatars.githubusercontent.com/u/1223348?v=3",
+    "description": "Powerful and flexible library for loading, caching and displaying images on Android.",
+    "stargazers_count": 13168,
+    "forks_count": 5976,
+    "group":{
+      "id": 2,
+      "name": "图片加载"
+    }
+  },
+  {
+    "id": 31533997,
+    "name": "fresco",
+    "full_name": "facebook/fresco",
+    "avatar_url": "https://avatars.githubusercontent.com/u/69631?v=3",
+    "description": "An Android library for managing images and the memory they use.",
+    "stargazers_count": 9507,
+    "forks_count": 2761,
+    "group":{
+      "id": 2,
+      "name": "图片加载"
+    }
+  },
+  {
+    "id": 11267509,
+    "name": "glide",
+    "full_name": "bumptech/glide",
+    "avatar_url": "https://avatars.githubusercontent.com/u/423539?v=3",
+    "description": "An image loading and caching library for Android focused on smooth scrolling",
+    "stargazers_count": 8834,
+    "forks_count": 1861,
+    "group":{
+      "id": 2,
+      "name": "图片加载"
+    }
+  },
+  {
+    "id": 10057936,
+    "name": "picasso",
+    "full_name": "square/picasso",
+    "avatar_url": "https://avatars.githubusercontent.com/u/82592?v=3",
+    "description": "A powerful image downloading and caching library for Android",
+    "stargazers_count": 10300,
+    "forks_count": 2882,
+    "group":{
+      "id": 2,
+      "name": "图片加载"
+    }
+  },
+  {
+    "id": 51148780,
+    "name": "android-architecture",
+    "full_name": "googlesamples/android-architecture",
+    "avatar_url": "https://avatars.githubusercontent.com/u/7378196?v=3",
+    "description": "A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.",
+    "stargazers_count": 7454,
+    "forks_count": 1564,
+    "group":{
+      "id": 3,
+      "name": "架构"
+    }
+  },
+  {
+    "id": 32834215,
+    "name": "mosby",
+    "full_name": "sockeqwe/mosby",
+    "avatar_url": "https://avatars.githubusercontent.com/u/583598?v=3",
+    "description": "A Model-View-Presenter library for modern Android apps",
+    "stargazers_count": 1802,
+    "forks_count": 308,
+    "group":{
+      "id": 3,
+      "name": "架构"
+    }
+  },
+  {
+    "id": 23112526,
+    "name": "Android-CleanArchitecture",
+    "full_name": "android10/Android-CleanArchitecture",
+    "avatar_url": "https://avatars.githubusercontent.com/u/1360604?v=3",
+    "description": "This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.",
+    "stargazers_count": 5153,
+    "forks_count": 1354,
+    "group":{
+      "id": 3,
+      "name": "架构"
+    }
+  },
+  {
+    "id": 15491874,
+    "name": "reark",
+    "full_name": "reark/reark",
+    "avatar_url": "https://avatars.githubusercontent.com/u/15047873?v=3",
+    "description": "RxJava architecture library for Android",
+    "stargazers_count": 1806,
+    "forks_count": 224,
+    "group":{
+      "id": 3,
+      "name": "架构"
+    }
+  },
+  {
+    "id": 28340997,
+    "name": "recyclerview-animators",
+    "full_name": "wasabeef/recyclerview-animators",
+    "avatar_url": "https://avatars.githubusercontent.com/u/1833474?v=3",
+    "description": "An Android Animation library which easily add itemanimator to RecyclerView items.",
+    "stargazers_count": 3766,
+    "forks_count": 777,
+    "group":{
+      "id": 4,
+      "name": "视图和动画"
+    }
+  },
+  {
+    "id": 29782400,
+    "name": "android-advancedrecyclerview",
+    "full_name": "h6ah4i/android-advancedrecyclerview",
+    "avatar_url": "https://avatars.githubusercontent.com/u/2552365?v=3",
+    "description": "RecyclerView extension library which provides advanced features. (ex. Google's Inbox app like swiping, Play Music app like drag and drop sorting)",
+    "stargazers_count": 2091,
+    "forks_count": 427,
+    "group":{
+      "id": 4,
+      "name": "视图和动画"
+    }
+  },
+  {
+    "id": 21113349,
+    "name": "AndroidViewAnimations",
+    "full_name": "daimajia/AndroidViewAnimations",
+    "avatar_url": "https://avatars.githubusercontent.com/u/2503423?v=3",
+    "description": "Cute view animation collection.",
+    "stargazers_count": 5302,
+    "forks_count": 1363,
+    "group":{
+      "id": 4,
+      "name": "视图和动画"
+    }
+  },
+  {
+    "id": 26568234,
+    "name": "android-Ultra-Pull-To-Refresh",
+    "full_name": "liaohuqiu/android-Ultra-Pull-To-Refresh",
+    "avatar_url": "https://avatars.githubusercontent.com/u/4088573?v=3",
+    "description": "Ultra Pull to Refresh for Android. Support all the views.",
+    "stargazers_count": 5353,
+    "forks_count": 1916,
+    "group":{
+      "id": 4,
+      "name": "视图和动画"
+    }
+  },
+  {
+    "id": 19148949,
+    "name": "MPAndroidChart",
+    "full_name": "PhilJay/MPAndroidChart",
+    "avatar_url": "https://avatars.githubusercontent.com/u/6759734?v=3",
+    "description": "A powerful Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations.",
+    "stargazers_count": 9594,
+    "forks_count": 3125,
+    "group":{
+      "id": 4,
+      "name": "视图和动画"
+    }
+  },
+  {
+    "id": 11704709,
+    "name": "xUtils",
+    "full_name": "wyouflf/xUtils",
+    "avatar_url": "https://avatars.githubusercontent.com/u/2654372?v=3",
+    "description": "android orm, bitmap, http, view inject... ",
+    "stargazers_count": 4252,
+    "forks_count": 2990,
+    "group":{
+      "id": 5,
+      "name": "快速开发"
+    }
+  },
+  {
+    "id": 5391743,
+    "name": "roboguice",
+    "full_name": "roboguice/roboguice",
+    "avatar_url": "https://avatars.githubusercontent.com/u/3467927?v=3",
+    "description": "Google Guice on Android, version 3.0",
+    "stargazers_count": 3801,
+    "forks_count": 929,
+    "group":{
+      "id": 5,
+      "name": "快速开发"
+    }
+  },
+  {
+    "id": 7508411,
+    "name": "RxJava",
+    "full_name": "ReactiveX/RxJava",
+    "avatar_url": "https://avatars.githubusercontent.com/u/6407041?v=3",
+    "description": "RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.",
+    "stargazers_count": 14541,
+    "forks_count": 2448,
+    "group":{
+      "id": 6,
+      "name": "进阶知识"
+    }
+  },
+  {
+    "id": 23095954,
+    "name": "RxAndroid",
+    "full_name": "ReactiveX/RxAndroid",
+    "avatar_url": "https://avatars.githubusercontent.com/u/6407041?v=3",
+    "description": "RxJava bindings for Android",
+    "stargazers_count": 7354,
+    "forks_count": 1270,
+    "group":{
+      "id": 6,
+      "name": "进阶知识"
+    }
+  },
+  {
+    "id": 4084908,
+    "name": "realm-java",
+    "full_name": "realm/realm-java",
+    "avatar_url": "https://avatars.githubusercontent.com/u/7575099?v=3",
+    "description": "Realm is a mobile database: a replacement for SQLite & ORMs",
+    "stargazers_count": 5257,
+    "forks_count": 704,
+    "group":{
+      "id": 6,
+      "name": "进阶知识"
+    }
+  },
+  {
+    "id": 3432266,
+    "name": "kotlin",
+    "full_name": "JetBrains/kotlin",
+    "avatar_url": "https://avatars.githubusercontent.com/u/878437?v=3",
+    "description": "The Kotlin Programming Language",
+    "stargazers_count": 5359,
+    "forks_count": 576,
+    "group":{
+      "id": 6,
+      "name": "进阶知识"
+    }
+  }
+]

@@ -1,0 +1,29 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+
+// 构建配置
+buildscript {
+    // 仓库，当前项目所要使用的代码库
+    repositories {
+        // jcenter类型一个代码库(但它管理的是二进制文件Jar,aar等)
+        jcenter()
+    }
+    // 当前项目依赖哪一个Gradle
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.1.2'
+
+        // NOTE: Do not place your application dependencies here; they belong
+        // in the individual module build.gradle files
+    }
+}
+
+// 项目的构建配置
+allprojects {
+    repositories {
+        jcenter()
+    }
+}
+
+// 执行clean任务时，所clean的路径
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}

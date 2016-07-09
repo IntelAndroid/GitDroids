@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".splash.SplashActivity">
+
+    <fragment
+        android:id="@+id/splashPagerFragment"
+        android:name="com.feicuiedu.gitdroid.splash.SplashPagerFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/buttonBar"/>
+
+    <LinearLayout
+        android:id="@+id/buttonBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        android:background="@color/colorBlue"
+        style="?attr/buttonBarStyle">
+        <Button
+            android:id="@+id/btnLogin"
+            android:layout_width="0px"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            style="?attr/buttonBarButtonStyle"
+            android:text="@string/login_github"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/sp_14"/>
+        <ImageView
+            android:layout_width="@dimen/dp_1"
+            android:layout_height="match_parent"
+            android:layout_marginTop="@dimen/dp_6"
+            android:layout_marginBottom="@dimen/dp_6"
+            android:background="@color/colorTranslucent"/>
+        <Button
+            android:id="@+id/btnEnter"
+            android:layout_width="0px"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            style="?attr/buttonBarButtonStyle"
+            android:text="@string/enter_app"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/sp_14"/>
+    </LinearLayout>
+</RelativeLayout>

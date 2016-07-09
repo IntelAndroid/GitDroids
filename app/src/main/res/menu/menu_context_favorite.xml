@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/sub_menu_move"
+        android:title="@string/move_to">
+        <menu>
+            <group android:id="@+id/menu_group_move">
+                <item
+                    android:id="@+id/repo_group_no"
+                    android:title="@string/repo_group_no"/>
+            </group>
+        </menu>
+    </item>
+
+
+    <item
+        android:id="@+id/delete"
+        android:title="@string/delete"/>
+
+
+</menu>
